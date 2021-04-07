@@ -5,7 +5,7 @@
     <test name="Duck text search" enabled="true" preserve-order="true">
         <parameter name="platform-type" value="chrome"/>
         <classes>
-            <class name="tests.GoogleSearchTest">
+            <class name="tests.InternetAppTest">
                 <methods>
                     <include name="verifyGoogleSearchByText"/>
                 </methods>
